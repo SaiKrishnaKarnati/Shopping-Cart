@@ -1,0 +1,12 @@
+ {props.cart.map(cartProduct =>
+                    {
+                        return(
+                            <div>
+                                <img src={cartProduct.image.img1} width="100" />
+                                {console.log(cartProduct)}
+                            </div>
+                            
+                        )
+                        
+                    })}
+               

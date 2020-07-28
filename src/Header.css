@@ -1,0 +1,17 @@
+.fa-shopping-cart
+{
+    color: white;
+    align-items: right;
+    padding-left: 1400px;
+    
+}
+.shop 
+{
+    color: white;
+    font-size: 30px;
+}
+.navbar
+{ position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
